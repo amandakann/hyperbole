@@ -1,0 +1,574 @@
+ISO639-3;word form;category;value;origin
+als;milion;1;10^6;extraction
+als;qindra herë;1;10^2;extraction
+arb;ألف مرة;1;10^3;extraction, elicitation
+arb;الف;1;10^3;extraction, elicitation
+arb;الملايين;1;10^6;extraction
+arb;ترليون;1;10^12;extraction
+arb;جيليون;3a;;extraction
+arb;دشليون;3a;;extraction
+arb;زليون;3a;;extraction
+arb;زيليون;3a;;extraction
+arb;للمرة العاشرة;1;10;extraction
+arb;مائة مرة;1;10^2;extraction
+arb;مليون مرة;1;10^6;extraction
+ben;ডজনেরও বেশী;2;12;extraction
+bos;bazillion;3a;;extraction
+bos;deseti;1;10;extraction
+bos;milijun;1;10^6;extraction
+bos;miljone;1;10^6;extraction
+bos;sto;1;10^2;extraction
+bos;stoti put;1;10^2;extraction
+bos;zilion;3a;;extraction
+bre;warn-ugent;1;20;extraction
+bul;десети път;1;10;extraction
+bul;ен-ти;5;;extraction
+bul;енти;5;;extraction
+bul;зилион;3a;;extraction
+bul;зилиона;3a;;extraction
+bul;милиард;1;10^9;extraction
+bul;милион;1;10^6;extraction
+bul;милионен;1;10^6;extraction
+bul;сто пъти;1;10^2;extraction
+bul;трилион;1;10^12;extraction
+bul;хиляден;1;10^3;extraction
+bul;хиляди пъти;1;10^3;extraction
+cat;milions;1;10^6;extraction
+ces;bambilion;3a;;extraction
+ces;bambilionté;3a;;extraction
+ces;bazilión;3a;;extraction
+ces;biliardy;1;10^15;extraction
+ces;bilion;1;10^12;extraction
+ces;bilionů;1;10^12;extraction
+ces;bůhvíkolikátý;6;;extraction
+ces;bžilion;3a;;extraction
+ces;bžilionkrát;3a;;extraction
+ces;čtyřsté;1;400;extraction
+ces;diliony;3a;;extraction
+ces;gazilión;3a;;extraction
+ces;ixté;5;;extraction
+ces;miliardu;1;10^9;extraction
+ces;milión;1;10^6;extraction
+ces;milionkrát;1;10^6;extraction
+ces;milionté;1;10^6;extraction
+ces;miliony;1;10^6;extraction
+ces;několikáté;6;;extraction
+ces;padesátkrát;1;50;extraction
+ces;stokrát;1;10^2;extraction
+ces;tisící;1;10^3;extraction
+ces;tisíckrát;1;10^3;extraction
+ces;trilion;1;10^18;extraction
+ces;trilionkrát;1;10^18;extraction
+ces;triliony;1;10^18;extraction
+ces;xté;5;;extraction
+ces;zilión;3a;;extraction
+ces;zilionkrát;3a;;extraction
+ces;ziliónů;3a;;extraction
+ces;zillion;3a;;extraction
+cmn;N 次;5;;extraction
+cmn;一千次;1;10^3;extraction
+cmn;一百次;1;10^2;extraction
+cmn;几亿 个;1;10^8;extraction
+cmn;十萬八千;2;108 x 10^3;elicitation
+dan;117;2;117;pilot
+dan;10.000;1;10^4;pilot
+dan;100 gange;1;10^2;pilot
+dan;400. gang;1;400;pilot
+dan;50;1;50;pilot
+dan;50 gange;1;50;pilot
+dan;billion;1;10^12;pilot
+dan;dusiner;2;12;pilot
+dan;fantasillion;3a;;extraction
+dan;gajillion;3a;;extraction
+dan;hundrede og syttende;2;117;pilot
+dan;hundredesyttende;2;117;pilot
+dan;milliard;1;10^9;extraction
+dan;million;1;10^6;pilot
+dan;syttende gang;2;17;pilot
+dan;to og halvtreds;2;52;pilot
+dan;trilliard;1;10^21;extraction
+dan;trillion;1;10^18;extraction
+dan;tusindvis;1;10^3;extraction
+deu;1000;1;10^3;extraction, elicitation
+deu;198;2;198;elicitation
+deu;198sten Mal;2;198;elicitation
+deu;bazillion;3a;;extraction
+deu;billion;1;10^12;extraction
+deu;drölf;3a;;elicitation
+deu;drölfhundert;3b;;elicitation
+deu;drölftausend;3b;;elicitation
+deu;drölfzig;3b;;elicitation
+deu;drölfzigtausend;3b;;elicitation
+deu;hundert Mal;1;10^2;extraction
+deu;hundertsten Mal;1;10^2;extraction
+deu;Milliarden;1;10^9;extraction
+deu;Millionen Mal;1;10^6;extraction
+deu;tausend Mal;1;10^3;extraction, elicitation
+deu;tausendsten;1;10^3;extraction, elicitation
+deu;trillion;1;10^18;extraction
+deu;Trillionen;1;10^18;extraction
+deu;x-mal;5;;extraction, elicitation
+deu;x-ten;5;;extraction, elicitation
+deu;zig;3a;;extraction, elicitation
+deu;zig Milliarden;3b;;extraction
+deu;zig Millionen;3b;;extraction
+deu;zigmal;3a;;extraction, elicitation
+deu;zigmilliarden;3b;;extraction
+deu;zigmillionen;3b;;extraction
+deu;zigsten;3a;;extraction, elicitation
+deu;zigtausend;3b;;extraction, elicitation
+deu;zigtausende;3b;;extraction, elicitation
+deu;zillion;3a;;extraction
+ell;δέκατη φορά;1;10;extraction
+ell;δισεκατομμύριο;1;10^9;extraction
+ell;εκατό φορές;1;10^2;extraction
+ell;εκατομμύρια;1;10^6;extraction
+ell;εκατομμύριο;1;10^6;extraction
+ell;εκατομμύριο φορές;1;10^6;extraction
+ell;εκατοστή φορά;1;10^2;extraction
+ell;μυριοστή φορά;1;10^4;extraction
+ell;πολλοστή;6;;extraction
+ell;τρισεκατομμύριο;1;10^12;extraction
+ell;χιλιάδες φορές;1;10^3;extraction
+ell;χίλιες φορές;1;10^3;extraction
+ell;χιλιοστή φορά;1;10^3;extraction
+eng;50;1;50;pilot
+eng;157th;2;157;pilot
+eng;17th time;2;17;pilot
+eng;400th time;1;400;pilot
+eng;46 times;2;46;pilot
+eng;50th;1;50;pilot
+eng;80 million;2;80 x 10^6;pilot
+eng;bajillion;3a;;pilot
+eng;billionth;1;10^9;extraction
+eng;billionth time;1;10^9;extraction
+eng;dozen;2;12;pilot
+eng;fifteenth;2;15;pilot
+eng;fifty-seventh;2;57;pilot
+eng;gajillion;3a;;extraction
+eng;gazillion;3a;;pilot
+eng;gazillionth;3a;;pilot
+eng;hundred;1;10^2;pilot
+eng;hundredth;1;10^2;pilot
+eng;jillion;3a;;pilot
+eng;million;1;10^6;pilot
+eng;millionth;1;10^6;pilot
+eng;nth;5;;extraction
+eng;tenth time;1;10;extraction
+eng;thousand;1;10^3;pilot
+eng;umpteen;3a;;pilot
+eng;umpteenth;3a;;pilot
+eng;zillion;3a;;pilot
+eng;zillions;3a;;pilot
+est;miljon korda;1;10^6;extraction
+est;miljoneid;1;10^6;extraction
+est;miljonendat korda;1;10^6;extraction
+est;mustmiljon;3b;;extraction
+est;mustmiljonis;3b;;extraction
+est;sada korda;1;10^2;extraction
+est;sadu kordi;1;10^2;extraction
+est;triljon;1;10^12;extraction
+est;ziljon;3a;;extraction
+eus;100 aldiz;1;10^2;extraction
+eus;hamaika;2;11;phrase tables, elicitation
+eus;hamaikagarren aldiz;2;11;extraction, elicitation
+eus;mila;1;10^3;extraction
+eus;milioika;1;10^6;extraction
+fin;kymmenennen kerran;1;10;extraction
+fin;miljardi kertaa;1;10^9;extraction
+fin;miljoona;1;10^6;extraction
+fin;miljoonannen kerran;1;10^6;extraction
+fin;sadannen kerran;1;10^2;extraction
+fin;sata kertaa;1;10^2;extraction
+fin;satoja kertoja;1;10^2;extraction
+fin;tsiljoona;3a;;extraction
+fin;tuhannennen kerran;1;10^3;extraction
+fin;tuhat kertaa;1;10^3;extraction
+fin;ziljoona;3a;;extraction
+fra;50;1;50;pilot
+fra;10;1;10;pilot
+fra;17e fois;2;17;pilot
+fra;36 millionième;2;36 x 10^6;pilot
+fra;400e fois;1;400;pilot
+fra;50 fois;1;50;pilot
+fra;50ème;1;50;pilot
+fra;bajillion;3a;;pilot
+fra;bazillion;3a;;extraction
+fra;billions;1;10^12;extraction
+fra;cent;1;10^2;pilot
+fra;cent cinquante;2;150;pilot
+fra;cent fois;1;10^2;pilot
+fra;centaines de fois;1;~10^2;extraction
+fra;centième;1;10^2;pilot
+fra;des dizaines de fois;1;~10;pilot
+fra;des milliards;1;10^9;extraction
+fra;des millions de fois;1;10^6;pilot
+fra;énième;5;;pilot
+fra;gajillion;3a;;extraction
+fra;gazillion;3a;;extraction
+fra;jillion;3a;;extraction
+fra;mille;1;10^3;pilot
+fra;milliard;1;10^9;extraction
+fra;millième;1;10^3;pilot
+fra;million;1;10^6;pilot
+fra;millionième;1;10^6;pilot
+fra;quarante-douze;4;;elicitation
+fra;quinzième;2;15;pilot
+fra;squillions;3a;;extraction
+fra;trente-six;2;36;pilot
+fra;trillion;1;10^18;extraction
+fra;trillions;1;10^18;extraction
+fra;zillion;3a;;extraction
+fra;zillions;3a;;extraction
+heb;אלף פעם;1;10^3;extraction
+heb;בזיליון;3a;;extraction
+heb;בפעם המאה;1;10^2;extraction
+heb;בפעם המיליון;1;10^6;extraction
+heb;גזיליון;3a;;extraction
+heb;המי-יודע-כמה;6;;extraction
+heb;המיליארד;1;10^9;extraction
+heb;זיליון ;3a;;extraction
+heb;טריליון;1;10^12;extraction
+heb;מאה פעם;1;10^2;extraction
+heb;מיליארד;1;10^9;extraction
+heb;מיליארדים;1;10^9;extraction
+heb;מיליון;1;10^6;extraction
+heb;מיליוני;1;10^6;extraction
+heb;מלאנתלפים;3b;;extraction, elicitation
+hrv;bazilion;3a;;extraction
+hrv;bilijardu;1;10^15;extraction
+hrv;bilijun;1;10^12;extraction
+hrv;bilijuna;1;10^12;extraction
+hrv;deseti put;1;10;extraction
+hrv;gajillion;3a;;extraction
+hrv;gazilijon;3a;;extraction
+hrv;gazilijun;3a;;extraction
+hrv;gazilion;3a;;extraction
+hrv;milijardi;1;10^9;extraction
+hrv;milijardu;1;10^9;extraction
+hrv;milijun puta;1;10^6;extraction
+hrv;milijunti put;1;10^6;extraction
+hrv;sto puta;1;10^2;extraction
+hrv;stoti put;1;10^2;extraction
+hrv;tisuću;1;10^3;extraction
+hrv;trilijun;1;10^18;extraction
+hrv;zilijun;3a;;extraction
+hrv;zilijune;3a;;extraction
+hrv;zilion;3a;;extraction
+hrv;ziliona;3a;;extraction
+hrv;zilione;3a;;extraction
+hrv;zillion;3a;;extraction
+hun;billió;1;10^12;extraction
+hun;csilliárd;3a;;extraction
+hun;csillió;3a;;extraction
+hun;ezer;1;10^3;extraction
+hun;ezerszer;1;10^3;extraction
+hun;ezredszerre;1;10^3;extraction
+hun;ikszedik;5;;extraction
+hun;kismillió;3b;;extraction
+hun;kismilliószor;3b;;extraction
+hun;milliárdnyi;1;10^9;extraction
+hun;milliárdszor;1;10^9;extraction
+hun;millió;1;10^6;extraction
+hun;millió-billió;4;;extraction
+hun;milliószor;1;10^6;extraction
+hun;ötvenszer;1;50;extraction
+hun;sokadik;6;;extraction
+hun;sokadszorra;6;;extraction
+hun;sokmillió;3b;;extraction
+hun;századjára;1;10^2;extraction
+hun;százszor;1;10^2;extraction
+hun;trillió;1;10^18;extraction
+hun;zillió;3a;;extraction
+hun;zsillió;3a;;extraction
+ind;jutaan kali;1;10^6;extraction
+ind;kesekian;6;;extraction
+ind;miliaran;1;10^9;extraction
+ind;ratusan kali;1;10^2;extraction
+ind;ribuan kali;1;10^3;extraction
+isl;hundruđ;1;10^2;extraction
+isl;skrilljón;3a;;extraction
+isl;tíunda;1;10;extraction
+isl;trilljón;1;10^18;extraction
+ita;bilione;1;10^12;extraction
+ita;bilioni;1;10^12;extraction
+ita;centinaia;1;~10^2;extraction
+ita;centinaio;1;~10^2;extraction
+ita;cento volte;1;10^2;extraction
+ita;ennesima;5;;extraction, elicitation
+ita;ennesimo;5;;extraction, elicitation
+ita;fantastiliardo;3a;;extraction, elicitation
+ita;fantastilione;3a;;extraction, elicitation
+ita;la centesima volta;1;10^2;extraction
+ita;la miliardesima volta;1;10^9;extraction
+ita;la millesima volta;1;10^3;extraction
+ita;la trilionesima volta;1;10^18;extraction
+ita;migliaia;1;~10^3;extraction
+ita;migliaio;1;~10^3;extraction
+ita;miliardi;1;10^9;extraction
+ita;miliardo;1;10^9;extraction
+ita;milionesima;1;10^6;extraction
+ita;milioni;1;10^6;extraction
+ita;mille volte;1;10^3;extraction
+ita;millemila;4;;extraction
+ita;triliardi;1;10^21;extraction
+ita;triliardo;1;10^21;extraction
+ita;trilione;1;10^18;extraction
+ita;un milione di volte;1;10^6;extraction
+ita;zilione;3a;;extraction
+jpn;100 回;1;10^2;pilot
+jpn;八百万;2;800 x 10^4;elicitation
+kat;ჟრჲ ოყრთ;1;10^2;extraction
+kor;50번은;1;50;extraction
+lav;miljoni;1;10^6;extraction
+lav;miljoniem;1;10^6;extraction
+lit;100;1;10^2;extraction
+lit;trilijardą;1;10^21;extraction
+lit;tūkstantį kartų;1;10^3;extraction
+mal;ആയിരക്കണക്കിന്;1;10^3;extraction
+mkd;зилион;3a;;extraction
+mkd;илјада пати;1;10^3;extraction
+mkd;милијарда;1;10^9;extraction
+mkd;милион пати;1;10^6;extraction
+mly;ratusan kali;1;10^2;extraction
+nld;biljoen;1;10^12;extraction
+nld;de honderdste keer;1;10^2;extraction
+nld;de miljoenste keer;1;10^6;extraction
+nld;de tiende keer;1;10;extraction
+nld;duizend keer;1;10^3;extraction
+nld;gazillions;3a;;extraction
+nld;honderd keer;1;10^2;extraction
+nld;kazillion;3a;;extraction
+nld;miljard;1;10^9;extraction
+nld;miljarden;1;10^9;extraction
+nld;miljoen;1;10^6;extraction
+nld;miljoenen;1;10^6;extraction
+nld;tig;3a;;extraction, elicitation
+nld;tigste;3a;;extraction, elicitation
+nld;triljoen;1;10^18;extraction
+nld;triljoenen;1;10^18;extraction
+nld;ziljoen;3a;;extraction
+nld;zoveelste;6;;extraction
+nob;50 ganger;1;50;pilot
+nob;57;2;57;pilot
+nob;billioner;1;10^12;extraction
+nob;ente;5;;pilot
+nob;fantasilion;3a;;extraction
+nob;femtende;2;15;pilot
+nob;gazillion;3a;;extraction
+nob;hundre ganger;1;10^2;pilot
+nob;hundrede gang;1;10^2;pilot
+nob;million;1;10^6;pilot
+nob;n-te;5;;pilot
+nob;nte;5;;pilot
+nob;ørten;3a;;pilot
+nob;ørten millioner;3b;;pilot
+nob;ørtende;3a;;pilot
+nob;to og femti;2;52;pilot
+nob;trilliard;1;10^21;extraction
+nob;trillion;1;10^18;extraction
+nob;tusen;1;10^3;pilot
+nob;zillion;3a;;extraction
+pes;šunsad;2;600;elicitation
+pes;صد بار;1;10^2;extraction
+pes;ميليون;1;10^6;extraction
+pes;ميليون بار;1;10^6;extraction
+pes;هزار بار;1;10^3;extraction
+pol;50 razy;1;50;extraction
+pol;bazylion;3a;;extraction
+pol;bilion;1;10^12;extraction
+pol;enty;5;;extraction
+pol;gazylion;3a;;extraction
+pol;gazyliona;3a;;extraction
+pol;gazylionem;3a;;extraction
+pol;gazyliony;3a;;extraction
+pol;kazylion;3a;;extraction
+pol;miliard;1;10^9;extraction
+pol;miliarderem;1;10^9;extraction
+pol;milion;1;10^6;extraction
+pol;milion razy;1;10^6;extraction
+pol;milionów;1;10^6;extraction
+pol;multibilion;1;10^12;extraction
+pol;n-ty;5;;extraction
+pol;pierdylion;3a;;extraction
+pol;setki razy;1;10^2;extraction
+pol;sto razy;1;10^2;extraction
+pol;tryliardem;1;10^21;extraction
+pol;tryliardy;1;10^21;extraction
+pol;trylion;1;10^18;extraction
+pol;tysiąc razy;1;10^3;extraction
+pol;zillion;3a;;extraction
+pol;zylion;3a;;extraction
+pol;zylionów ;3a;;extraction
+por;bajillion;3a;;extraction
+por;bazilhão;3a;;extraction
+por;bilhões;1;10^12;extraction
+por;bilião;1;10^12;extraction
+por;bilionésima vez;1;10^12;extraction
+por;cem vezes;1;10^2;extraction
+por;centenas de vezes;1;10^2;extraction
+por;centésima vez;1;10^2;extraction
+por;décima vez;1;10;extraction
+por;enésima;5;;extraction
+por;enésimo;5;;extraction
+por;gazilhão;3a;;extraction
+por;gazillion;3a;;extraction
+por;mil vezes;1;10^3;extraction
+por;milésima vez;1;10^3;extraction
+por;milhão;1;10^6;extraction
+por;milhares de vezes;1;10^3;extraction
+por;milhentas;3a;;extraction
+por;milhentos ;3a;;extraction
+por;milhões;1;10^6;extraction
+por;milionésima vez;1;10^6;extraction
+por;porrilhão;3a;;extraction
+por;trilhão;1;10^18;extraction
+por;trocentas;3b;;extraction
+por;trocentos;3b;;extraction
+por;zilhão;3a;;extraction
+por;zilhões;3a;;extraction
+por;zilião;3a;;extraction
+por;ziliões;3a;;extraction
+por;zilionésimo;3a;;extraction
+ron;catralioane;1;10^15;extraction
+ron;catralion;1;10^15;extraction
+ron;jdemii;3b;;extraction
+ron;miliard;1;10^9;extraction
+ron;miliarde;1;10^9;extraction
+ron;trilioane;1;10^12;extraction
+ron;trilion;1;10^12;extraction
+rus;базиллион;3a;;extraction
+rus;биллион;1;10^9;extraction
+rus;газиллион;3a;;extraction
+rus;газиллионов;3a;;extraction
+rus;джиллион;3a;;extraction
+rus;зиллион;3a;;extraction
+rus;миллиард;1;10^9;extraction
+rus;миллиардный раз;1;10^9;extraction
+rus;миллион раз;1;10^6;extraction
+rus;миллионный раз;1;10^6;extraction
+rus;миллионы;1;10^6;extraction
+rus;пятьдесят;1;50;extraction
+rus;сотни раз;1;10^2;extraction
+rus;сто раз;1;10^2;extraction
+rus;стопятьсот;4;;elicitation
+rus;триллион;1;10^12;extraction
+rus;триллионов;1;10^12;extraction
+rus;тысячу раз;1;10^3;extraction
+sin;කෝටියක්;1;10^6;extraction
+slk;bazilión;3a;;extraction
+slk;milión;1;10^6;extraction
+slk;miliónty krát;1;10^6;extraction
+slk;zilióny;3a;;extraction
+slv;gazillion;3a;;extraction
+slv;milijarde;1;10^9;extraction
+slv;milijon;1;10^6;extraction
+slv;milijonkrat;1;10^6;extraction
+slv;stokrat;1;10^2;extraction
+slv;zilijon;3a;;extraction
+slv;zilijone;3a;;extraction
+slv;ziljon;3a;;extraction
+spa;bazillion;3a;;extraction
+spa;billón;1;10^12;extraction
+spa;billones;1;10^12;extraction
+spa;centésima vez;1;10^2;extraction
+spa;chorrocientas;3b;;extraction
+spa;chorrocientos;3b;;extraction
+spa;cien veces;1;10^2;extraction
+spa;cientos de veces;1;10^2;extraction
+spa;décima vez;1;10;extraction
+spa;enésima;5;;extraction
+spa;enésimo;5;;extraction
+spa;gajillion;3a;;extraction
+spa;gazillion;3a;;extraction
+spa;jillion;3a;;extraction
+spa;jillones;3a;;extraction
+spa;mil veces;1;10^3;extraction
+spa;miles de veces;1;10^3;extraction
+spa;milésima vez;1;10^3;extraction
+spa;millón;1;10^6;extraction
+spa;millones;1;10^6;extraction
+spa;millonésima;1;10^6;extraction
+spa;trillón;1;10^18;extraction
+spa;trillones;1;10^18;extraction
+spa;tropecientas;3b;;extraction, elicitation
+spa;tropecientos;3b;;extraction, elicitation
+spa;tropecientos millones;3b;;extraction
+spa;un millón de veces;1;10^6;extraction
+spa;zilliones;3a;;extraction
+spa;zillon;3a;;extraction
+srp;50 puta;1;50;extraction
+srp;biljun;1;10^12;extraction
+srp;deseti put;1;10;extraction
+srp;džilion;3a;;extraction
+srp;enti;5;;extraction
+srp;gajillion;3a;;extraction
+srp;gazilion;3a;;extraction
+srp;hiljadu puta;1;10^3;extraction
+srp;mali milion;3b;;extraction
+srp;milijardi;1;10^9;extraction
+srp;milijardu;1;10^9;extraction
+srp;milijunti put;1;10^6;extraction
+srp;milion;1;10^6;extraction
+srp;sto puta;1;10^2;extraction
+srp;stoti put;1;10^2;extraction
+srp;tisućiti put;1;10^3;extraction
+srp;zilijun;3a;;extraction
+srp;zilion;3a;;extraction
+srp;zillion;3a;;extraction
+swe;baziljoner;3a;;extraction
+swe;biljarder;1;10^15;extraction
+swe;biljoner;1;10^12;extraction
+swe;femti-elva;4;;pilot
+swe;femtielfte;4;;pilot
+swe;femtielva;4;;pilot
+swe;femtioelfte;4;;pilot
+swe;femtioelva;4;;pilot
+swe;hundra gånger;1;10^2;pilot
+swe;hundrade gången;1;10^2;pilot
+swe;hundrafemtielva;4;;pilot
+swe;hundratals gånger;1;10^2;pilot
+swe;miljard;1;10^9;extraction
+swe;miljoner;1;10^6;pilot
+swe;miljonte gången;1;10^6;pilot
+swe;sjuttifjärde;2;74;pilot
+swe;trehundrafemtioelfte;4;;pilot
+swe;triljoner;1;10^18;extraction
+swe;tusen gånger;1;10^3;extraction
+swe;ziljon;3a;;pilot
+swe;ziljoner;3a;;pilot
+swe;zillion;3a;;pilot
+tam;muppattēẓu;2;37;elicitation
+tha;50;1;50;extraction
+tha;นโหล;2;12;extraction
+tha;ร้อย แปด;2;108;elicitation
+tha;ร้อยแปดพันเก้า;2;108009;elicitation
+tha;ล้าน;1;10^6;extraction
+tha;ล้านครั้ง;1;10^6;extraction
+tha;แสนล้าน;1;10^11;extraction
+tha;หมื่นครั้ง;1;10^4;extraction
+tur;bin;1;10^3;extraction, elicitation
+tur;bininci;1;10^3;extraction, elicitation
+tur;binlerce;1;10^3;extraction, elicitation
+tur;elli;1;50;elicitation
+tur;gazilyon;3a;;extraction
+tur;katrilyon;1;10^15;extraction
+tur;kırk;1;40;elicitation
+tur;milyar;1;10^9;extraction
+tur;milyarlarca;1;10^9;extraction
+tur;milyon;1;10^6;extraction
+tur;milyonlarca;1;10^6;extraction
+tur;milyonuncu kez;1;10^6;extraction
+tur;trilyon;1;10^12;extraction
+tur;trilyonlarca;1;10^12;extraction
+tur;yüz kez;1;10^2;extraction
+tur;yüzlerce kez;1;10^2;extraction
+tur;zibilyon;3a;;extraction
+tur;zilyon;3a;;extraction
+tur;zilyonlarca;3a;;extraction
+tur;zilyonuncu;3a;;extraction
+ukr;мільйон;1;10^6;extraction
+ukr;сотый раз;1;10^2;extraction
+vie;hàng tỷ;1;10^9;extraction
+vie;trăm lần;1;10^2;extraction
+vie;triệu lần;1;10^6;extraction
